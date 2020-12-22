@@ -1,0 +1,8 @@
+C:\Apiswork-Academico\AwSiga\AwSiga.Core\bin\Debug\netcoreapp3.1\AwSiga.Core.deps.json
+C:\Apiswork-Academico\AwSiga\AwSiga.Core\bin\Debug\netcoreapp3.1\AwSiga.Core.dll
+C:\Apiswork-Academico\AwSiga\AwSiga.Core\bin\Debug\netcoreapp3.1\AwSiga.Core.pdb
+C:\Apiswork-Academico\AwSiga\AwSiga.Core\obj\Debug\netcoreapp3.1\AwSiga.Core.AssemblyInfoInputs.cache
+C:\Apiswork-Academico\AwSiga\AwSiga.Core\obj\Debug\netcoreapp3.1\AwSiga.Core.AssemblyInfo.cs
+C:\Apiswork-Academico\AwSiga\AwSiga.Core\obj\Debug\netcoreapp3.1\AwSiga.Core.csproj.CoreCompileInputs.cache
+C:\Apiswork-Academico\AwSiga\AwSiga.Core\obj\Debug\netcoreapp3.1\AwSiga.Core.dll
+C:\Apiswork-Academico\AwSiga\AwSiga.Core\obj\Debug\netcoreapp3.1\AwSiga.Core.pdb

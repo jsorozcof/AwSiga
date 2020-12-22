@@ -1,0 +1,15 @@
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\obj\Debug\netcoreapp3.1\AwSiga.Infrastructure.csprojAssemblyReference.cache
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\obj\Debug\netcoreapp3.1\AwSiga.Infrastructure.AssemblyInfoInputs.cache
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\obj\Debug\netcoreapp3.1\AwSiga.Infrastructure.AssemblyInfo.cs
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\obj\Debug\netcoreapp3.1\AwSiga.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\bin\Debug\netcoreapp3.1\AwSiga.Infrastructure.deps.json
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\bin\Debug\netcoreapp3.1\AwSiga.Infrastructure.runtimeconfig.json
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\bin\Debug\netcoreapp3.1\AwSiga.Infrastructure.runtimeconfig.dev.json
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\bin\Debug\netcoreapp3.1\AwSiga.Infrastructure.dll
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\bin\Debug\netcoreapp3.1\AwSiga.Infrastructure.pdb
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\bin\Debug\netcoreapp3.1\AwSiga.Core.dll
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\bin\Debug\netcoreapp3.1\AwSiga.Core.pdb
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\obj\Debug\netcoreapp3.1\AwSiga.Infrastructure.csproj.CopyComplete
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\obj\Debug\netcoreapp3.1\AwSiga.Infrastructure.dll
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\obj\Debug\netcoreapp3.1\AwSiga.Infrastructure.pdb
+C:\Apiswork-Academico\AwSiga\AwSiga.Infrastructure\obj\Debug\netcoreapp3.1\AwSiga.Infrastructure.genruntimeconfig.cache
