@@ -1,3 +1,5 @@
+using AwSiga.Core.Interfaces;
+using AwSiga.Infrastructure.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -21,6 +23,7 @@ namespace AwSiga.Api
         {
 
             services.AddControllers();
+            services.AddTransient<IEntityTypeRepository, EntityTypeRepository>();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "AwSiga.Api", Version = "v1" });

@@ -14,5 +14,12 @@ namespace AwSiga.Api.Controllers
         {
             _EntityTypeRepository = EntityTypeRepository;
         }
+
+        [HttpGet]
+        public IActionResult GetAll()
+        {
+            var entity = _EntityTypeRepository.GetAll();
+            return Ok(entity);
+        }
     }
 }

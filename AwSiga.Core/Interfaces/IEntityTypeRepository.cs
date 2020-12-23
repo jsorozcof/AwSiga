@@ -1,10 +1,13 @@
-﻿using System;
+﻿using AwSiga.Core.Entities;
+using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading.Tasks;
 
 namespace AwSiga.Core.Interfaces
 {
-    interface IEntityTypeRepository
+    public interface IEntityTypeRepository
     {
+        Task<IEnumerable<TipoEntidad>> GetAll();
     }
 }
